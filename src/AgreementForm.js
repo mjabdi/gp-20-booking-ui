@@ -324,13 +324,10 @@ useEffect( () => {
                 {`I have not been in contact recently with a confirmed COVID-19 case.`}
               </li> */}
               <li style={{marginTop:"15px"}}>
-                {`I am pr-booking an appointment for a 20 minute consultation with a General Practitioner. `}
+                {`I am booking an appointment for a 20 minute consultation with a General Practitioner. `}
               </li>
               <li style={{marginTop:"15px"}}>
                 {`I have read and agree to the Terms and Conditions of the service and am aware of the 24 hour cancellation policy. `}
-              </li>
-              <li style={{marginTop:"15px"}}>
-                {`The patient to be seen at the appointment is over 13 years old. `}
               </li>
 
 
