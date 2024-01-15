@@ -220,7 +220,7 @@ export default function ReviewForm() {
             textAlign: "justify",
           }}
         >
-          You can always change or cancel your appointment up-to 48 working hours to your appointment with ease through your patient portal
+          You can always change or cancel your appointment up-to 24 working hours to your appointment with ease through your patient portal
         </Alert>
       </div>
       </Fade>
